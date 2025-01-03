@@ -84,9 +84,9 @@ NewsReport/
     └── news_template.html
 ```
 ##  使用样例
-![alt text](e13891baaa03ac0773ab607802ceb44.png)
-![alt text](image.png)
-![alt text](image-1.png)
+![示例图片1](images/e13891baaa03ac0773ab607802ceb44.png)
+![示例图片2](images/image.png)
+![示例图片3](images/image-1.png)
 ## 更新日志
 
 ### v1.0
