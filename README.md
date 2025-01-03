@@ -83,7 +83,10 @@ NewsReport/
 └── templates/
     └── news_template.html
 ```
-
+##  使用样例
+![alt text](e13891baaa03ac0773ab607802ceb44.png)
+![alt text](image.png)
+![alt text](image-1.png)
 ## 更新日志
 
 ### v1.0
@@ -94,6 +97,3 @@ NewsReport/
 
 ## 开发者
 zxy
-
-## 许可证
-MIT License
